@@ -4,5 +4,5 @@ When I studied algorithm, I was confused about which algorithm can be particualr
 All files are written in c++. If you are the guy who only stick to leetcode, there is some necessary tricks in writing real cpluplus file. 
 
 
-##Quick sort
-*quick sort is based on*
+# Quick sort
+*quick sort is based on sorting by comparison to a "key". Just to be easy, I persoanlly prefer to set that key as the first element in a vector. Each time you have two pointers, pointing to the starting point and ending point and in while loop, they are approaching to the middle until they find some element larger than that key(left), and element smaller than that key(right).Once these number are finded, they need to change places in a vector.  After each loop, the result should be in the form that [a,a,a,a,key,b,b,b,b] where a belongs to the values that are smaller than key and b refers to the value that are larger than key. Repeat the in the same way in subpart of the vector*
