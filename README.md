@@ -4,4 +4,4 @@ When I studied algorithm, I was confused about which algorithm can be particualr
 All files are written in c++. If you are the guy who only stick to leetcode, there is some necessary tricks in writing real cpluplus file. 
 
 
-#Quick sort#
+#headingQuick sort#
