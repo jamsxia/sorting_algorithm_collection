@@ -5,3 +5,4 @@ All files are written in c++. If you are the guy who only stick to leetcode, the
 
 
 ##Quick sort
+/quick sort is based on/
